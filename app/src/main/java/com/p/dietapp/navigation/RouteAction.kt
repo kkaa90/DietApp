@@ -1,4 +1,4 @@
-package com.p.myapplication.navigation
+package com.p.dietapp.navigation
 
 import androidx.navigation.NavHostController
 

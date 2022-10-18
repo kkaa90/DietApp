@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.p.myapplication'
+    namespace 'com.p.dietapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.p.myapplication"
+        applicationId "com.p.dietapp"
         minSdk 29
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.p.myapplication
+package com.p.dietapp
 
 import org.junit.Test
 

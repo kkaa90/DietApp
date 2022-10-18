@@ -1,4 +1,4 @@
-package com.p.myapplication
+package com.p.dietapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.p.myapplication.ui.theme
+package com.p.dietapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

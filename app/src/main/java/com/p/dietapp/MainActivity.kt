@@ -1,4 +1,4 @@
-package com.p.myapplication
+package com.p.dietapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -6,12 +6,9 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.p.myapplication.navigation.NavigationGraph
-import com.p.myapplication.ui.theme.DietAppTheme
+import com.p.dietapp.navigation.NavigationGraph
+import com.p.dietapp.ui.theme.DietAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

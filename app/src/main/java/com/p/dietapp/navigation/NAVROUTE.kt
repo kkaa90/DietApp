@@ -1,4 +1,4 @@
-package com.p.myapplication.navigation
+package com.p.dietapp.navigation
 
 enum class NAVROUTE(val routeName : String, val description : String) {
     LOADING("loading", "로딩"),
